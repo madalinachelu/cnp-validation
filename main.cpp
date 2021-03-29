@@ -2,6 +2,8 @@
 
 using namespace std;
 
+
+//prima cifra
 int primacif(long n)
 {
     while(n>9)
