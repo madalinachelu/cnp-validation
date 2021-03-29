@@ -1,0 +1,3 @@
+C:/Users/lavic/OneDrive/Desktop/CNP_Project/cmake-build-debug/CMakeFiles/CNP_Project.dir
+C:/Users/lavic/OneDrive/Desktop/CNP_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lavic/OneDrive/Desktop/CNP_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
